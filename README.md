@@ -34,7 +34,7 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
-### ML/DL
+### Machine Learning & Deep Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
