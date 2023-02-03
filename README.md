@@ -4,9 +4,9 @@ Self-taught programmer with experience in a variety of languages including C#, P
 
 ## Experience
 
-My academic background is in Chemistry, specialization in Analytical Instrumentation, an area that lies on the intersection between Chemistry, Programming and Electronics and involves the development and use of tools to analyze samples, identify and quantify it’s components and monitor or control chemical processes.
+My academic background is in Chemistry, specialization in Analytical Instrumentation, an area that lies in the intersection between Chemistry, Programming and Electronics and involves the development and use of tools to analyze samples, identify and quantify it’s components and monitor or control chemical processes.
 
-During the 2020’s pandemics, I saw an opportunity to work as a freelancer, to develop websites for online events, as I already had the know-how in programing, having used it as a hobby and during my academic career.
+During the 2020’s pandemics, I saw an opportunity to work as a freelance developer, to create websites for online events, as I already had the knowledge in programing, having used it as a hobby and during my academic career.
 
 ## 💻 Tech Stack
 
