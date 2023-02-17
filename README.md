@@ -29,6 +29,7 @@ During the 2020’s pandemics, I saw an opportunity to work as a freelance devel
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%2320232a.svg?style=flat&logo=angular&logoColor=%23DD0031)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
