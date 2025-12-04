@@ -8,7 +8,7 @@ My academic background is in Chemistry, specialization in Analytical Instrumenta
 
 During the 2020’s pandemics, I saw an opportunity to work as a freelance developer, to create websites for online events, as I already had the knowledge in programing, having used it as a hobby and during my academic career.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -60,9 +60,6 @@ During the 2020’s pandemics, I saw an opportunity to work as a freelance devel
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wbmagalhaes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wbmagalhaes) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/wbmagalhaes) 
